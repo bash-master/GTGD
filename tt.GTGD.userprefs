@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MultiplayerScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraScript.cs" Line="12" Column="40" />
+      <File FileName="Assets\Scripts\BlasterScript.cs" Line="66" Column="67" />
+      <File FileName="Assets\Scripts\FireBlaster.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\MultiplayerScript.cs" Line="277" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
